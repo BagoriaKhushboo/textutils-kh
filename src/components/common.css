@@ -1,30 +1,12 @@
-.box{
-    width: 700px;
-    height: 700px;
-    margin: 0 auto;
-    border: 1px solid;
 
-}
-header{
-    background: #b7d9d9;
-    border-bottom: 1px solid;
-    text-align: center;
-}
-header span{
-    color: #933a43;
-}
-.form-control{
-    width: 92% !important;
-}
 .box-m{
     margin-left: 8px;
 }
-.t-summry p{
-    border: 1px solid rgb(233, 228, 228);
-    width: 650px; 
-    height: 200px;
-    overflow: scroll;
+
+h3{
+    margin-top: 10px;
 }
-.t-summry span{
-color: blue;
+.form-check-input:checked {
+    background-color: #bf6e98;
+    border-color:  #f0b4c7;;
 }
